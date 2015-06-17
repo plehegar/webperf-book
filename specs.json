@@ -1,0 +1,9 @@
+[
+ "http://w3c.github.io/hr-time/",
+ "http://w3c.github.io/performance-timeline/",
+ "https://w3c.github.io/resource-timing/",
+ "http://w3c.github.io/navigation-timing/",
+ "http://w3c.github.io/user-timing/",
+ "http://w3c.github.io/frame-timing/",
+ "http://w3c.github.io/server-timing/"
+]
